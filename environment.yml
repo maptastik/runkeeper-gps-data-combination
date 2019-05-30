@@ -1,0 +1,14 @@
+name: geopandas
+channels:
+  - udst
+  - conda-forge
+  - defaults
+dependencies:
+  - geopandas
+  - jupyterlab
+  - nodejs
+  - pandas
+  - python=3.6.7
+  - pip:
+    - bokeh
+    - pandas-bokeh

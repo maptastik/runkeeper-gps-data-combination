@@ -1,0 +1,1 @@
+You can run a live, interactive instance of this repo and its notebooks: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maptastik/runkeeper-gps-data-combination/master)

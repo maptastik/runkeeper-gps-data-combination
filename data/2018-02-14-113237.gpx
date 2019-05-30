@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.1"
+  creator="Runkeeper - http://www.runkeeper.com"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+  xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<trk>
+  <name><![CDATA[Cycling 2/14/18 11:32 am]]></name>
+  <time>2018-02-14T16:32:37Z</time>
+<trkseg>
+<trkpt lat="35.777602000" lon="-78.639207000"><ele>103.7</ele><time>2018-02-14T16:32:37Z</time></trkpt>
+<trkpt lat="35.777584000" lon="-78.639273000"><ele>103.7</ele><time>2018-02-14T16:32:39Z</time></trkpt>
+<trkpt lat="35.777679000" lon="-78.639286000"><ele>103.8</ele><time>2018-02-14T16:32:42Z</time></trkpt>
+<trkpt lat="35.777790000" lon="-78.639280000"><ele>103.8</ele><time>2018-02-14T16:32:45Z</time></trkpt>
+<trkpt lat="35.777897000" lon="-78.639291000"><ele>103.8</ele><time>2018-02-14T16:32:49Z</time></trkpt>
+<trkpt lat="35.777990000" lon="-78.639312000"><ele>103.9</ele><time>2018-02-14T16:32:55Z</time></trkpt>
+<trkpt lat="35.778086000" lon="-78.639328000"><ele>104.1</ele><time>2018-02-14T16:32:59Z</time></trkpt>
+<trkpt lat="35.778193000" lon="-78.639367000"><ele>104.3</ele><time>2018-02-14T16:33:02Z</time></trkpt>
+<trkpt lat="35.778234000" lon="-78.639496000"><ele>104.4</ele><time>2018-02-14T16:33:05Z</time></trkpt>
+<trkpt lat="35.778234000" lon="-78.639621000"><ele>104.5</ele><time>2018-02-14T16:33:08Z</time></trkpt>
+<trkpt lat="35.778248000" lon="-78.639741000"><ele>104.5</ele><time>2018-02-14T16:33:11Z</time></trkpt>
+<trkpt lat="35.778259000" lon="-78.639869000"><ele>104.6</ele><time>2018-02-14T16:33:15Z</time></trkpt>
+<trkpt lat="35.778261000" lon="-78.640009000"><ele>104.6</ele><time>2018-02-14T16:33:19Z</time></trkpt>
+<trkpt lat="35.778270000" lon="-78.640123000"><ele>104.6</ele><time>2018-02-14T16:33:21Z</time></trkpt>
+<trkpt lat="35.778287000" lon="-78.640245000"><ele>104.6</ele><time>2018-02-14T16:33:24Z</time></trkpt>
+<trkpt lat="35.778284000" lon="-78.640393000"><ele>104.6</ele><time>2018-02-14T16:33:27Z</time></trkpt>
+<trkpt lat="35.778307000" lon="-78.640566000"><ele>104.5</ele><time>2018-02-14T16:33:30Z</time></trkpt>
+<trkpt lat="35.778337000" lon="-78.640698000"><ele>104.5</ele><time>2018-02-14T16:33:32Z</time></trkpt>
+<trkpt lat="35.778342000" lon="-78.640826000"><ele>104.4</ele><time>2018-02-14T16:33:34Z</time></trkpt>
+<trkpt lat="35.778348000" lon="-78.640950000"><ele>104.3</ele><time>2018-02-14T16:33:36Z</time></trkpt>
+<trkpt lat="35.778348000" lon="-78.641078000"><ele>104.2</ele><time>2018-02-14T16:33:38Z</time></trkpt>
+<trkpt lat="35.778346000" lon="-78.641192000"><ele>104.0</ele><time>2018-02-14T16:33:40Z</time></trkpt>
+<trkpt lat="35.778352000" lon="-78.641303000"><ele>103.8</ele><time>2018-02-14T16:33:43Z</time></trkpt>
+<trkpt lat="35.778368000" lon="-78.641433000"><ele>103.6</ele><time>2018-02-14T16:33:47Z</time></trkpt>
+<trkpt lat="35.778385000" lon="-78.641585000"><ele>103.5</ele><time>2018-02-14T16:33:59Z</time></trkpt>
+<trkpt lat="35.778394000" lon="-78.641736000"><ele>103.3</ele><time>2018-02-14T16:34:02Z</time></trkpt>
+<trkpt lat="35.778382000" lon="-78.641855000"><ele>103.1</ele><time>2018-02-14T16:34:06Z</time></trkpt>
+<trkpt lat="35.778381000" lon="-78.641979000"><ele>102.8</ele><time>2018-02-14T16:34:11Z</time></trkpt>
+<trkpt lat="35.778392000" lon="-78.642139000"><ele>102.5</ele><time>2018-02-14T16:34:13Z</time></trkpt>
+<trkpt lat="35.778406000" lon="-78.642280000"><ele>102.3</ele><time>2018-02-14T16:34:15Z</time></trkpt>
+<trkpt lat="35.778407000" lon="-78.642443000"><ele>102.1</ele><time>2018-02-14T16:34:17Z</time></trkpt>
+<trkpt lat="35.778410000" lon="-78.642577000"><ele>101.9</ele><time>2018-02-14T16:34:19Z</time></trkpt>
+<trkpt lat="35.778425000" lon="-78.642722000"><ele>101.8</ele><time>2018-02-14T16:34:22Z</time></trkpt>
+<trkpt lat="35.778423000" lon="-78.642843000"><ele>101.7</ele><time>2018-02-14T16:34:25Z</time></trkpt>
+<trkpt lat="35.778438000" lon="-78.642985000"><ele>101.7</ele><time>2018-02-14T16:34:28Z</time></trkpt>
+<trkpt lat="35.778481000" lon="-78.643100000"><ele>101.6</ele><time>2018-02-14T16:34:32Z</time></trkpt>
+<trkpt lat="35.778572000" lon="-78.643175000"><ele>101.6</ele><time>2018-02-14T16:34:37Z</time></trkpt>
+<trkpt lat="35.778536000" lon="-78.643217000"><ele>101.5</ele><time>2018-02-14T16:34:42Z</time></trkpt>
+</trkseg>
+</trk>
+</gpx>
